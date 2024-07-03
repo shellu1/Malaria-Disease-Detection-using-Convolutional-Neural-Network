@@ -1,4 +1,4 @@
-Malaria Disease Detection using Red Blood Cells
+Malaria Disease Detection using Convolutional Neural Network
 
 Introduction: Malaria, a life-threatening disease caused by Plasmodium parasites, spreads to people through the bites of some infected female Anopheles mosquitoes. This project focuses on the development of a deep learning model for the classification of malaria parasitized and uninfected cell images.
 

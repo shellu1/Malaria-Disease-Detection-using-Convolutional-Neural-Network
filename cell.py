@@ -5,7 +5,7 @@ os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 import tensorflow as tf
 
 # Title of the web app
-st.title("Malaria Disease Detection using Red Blood Cells")
+st.title("Malaria Disease Detection using Convolutional Neural Network")
 
 # Displaying an initial image
 img_path = r'D:\DL Projects\cell_images\images\malaria.jpeg'
